@@ -1,0 +1,38 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 61.83 73.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-4);
+      }
+    </style>
+    <linearGradient id="linear-gradient" y1="49.81" x2="15.96" y2="49.81" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff0"/>
+      <stop offset="0.22" stop-color="#f7ff08"/>
+      <stop offset="0.88" stop-color="aqua"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="22.94" y1="49.81" x2="38.9" y2="49.81" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="45.87" y1="49.81" x2="61.83" y2="49.81" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="0" y1="12.27" x2="61.83" y2="12.27" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>REX Protocol Logo 2 72px </title>
+  <g>
+    <g>
+      <polygon class="cls-1" points="15.96 34.14 15.96 73.2 0 65.48 0 26.43 15.96 34.14"/>
+      <polygon class="cls-2" points="38.9 65.48 38.9 26.43 22.93 34.14 22.93 73.2 38.9 65.48"/>
+      <polygon class="cls-3" points="61.84 34.14 61.84 73.2 45.87 65.48 45.87 26.43 61.84 34.14"/>
+    </g>
+    <polygon class="cls-4" points="61.84 24.53 0 24.53 30.92 0 42.5 9.35 45.87 12.09 47.03 13.04 51.19 16.2 61.84 24.53"/>
+  </g>
+</svg>

@@ -22,12 +22,12 @@ require('dayjs/locale/zh')
 require('dayjs/locale/zh-tw')
 
 const NODE_URLS = [
-  { label: 'Triton (RPC Pool)', value: 'https://mango.rpcpool.com' },
-  { label: 'Genesys Go', value: 'https://mango.genesysgo.net' },
   {
     label: 'Project Serum',
     value: 'https://solana-api.projectserum.com/',
   },
+  { label: 'Triton (RPC Pool)', value: 'https://mango.rpcpool.com' },
+  { label: 'Genesys Go', value: 'https://mango.genesysgo.net' },
   { label: 'Custom', value: '' },
 ]
 
